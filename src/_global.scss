@@ -1,0 +1,19 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+.page {
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
